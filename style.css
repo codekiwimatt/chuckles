@@ -53,7 +53,6 @@ height: 90%;
   position: relative;
   height: 92vh;
   overflow:hidden;
-z-index: 20;
   background-image: url(images/chuck1.jpg);
   background-size: cover;
   background-position: center;
@@ -63,7 +62,7 @@ z-index: 20;
   animation: transitionIn 0.75s;
 }
 
-.hero-img::after {
+/*.hero-img::after {
   content: "";
   /* background-image: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255)), ; */
   background-image: linear-gradient(-45deg, yellow, red);
@@ -73,7 +72,7 @@ z-index: 20;
   width: 100%;
   opacity: .2;
 }
-
+*/
 .hero-container {
   position: absolute;
   color: white;
