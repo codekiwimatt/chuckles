@@ -53,9 +53,12 @@ height: 90%;
   position: relative;
   height: 92vh;
   overflow:hidden;
+
   background-image: url(/images/chuck1.jpg);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+
   justify-self: right;
   animation: transitionIn 0.75s;
 }
