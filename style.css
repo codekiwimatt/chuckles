@@ -64,7 +64,6 @@ height: 90%;
 
 /*.hero-img::after {
   content: "";
-  /* background-image: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255)), ; */
   background-image: linear-gradient(-45deg, yellow, red);
   z-index: 1;
   position: absolute;
